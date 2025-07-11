@@ -3,3 +3,4 @@ services:
     name: ukubona-glyphs
     env: static
     staticPublishPath: .
+     
